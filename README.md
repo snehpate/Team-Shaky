@@ -8,4 +8,4 @@ We are bulding a 3D tic-tac-toe model in 3 phase. This will be a Windows 10 game
 3. Which is basically a measurement that how valuable the final result in that tree is.
 
 # How to run phase-1:
- To run this part you can use pycharm, googlecollab,etc..
+ To run this part you can use pycharm, googlecollab,etc.. and run game.py and player.py files.
